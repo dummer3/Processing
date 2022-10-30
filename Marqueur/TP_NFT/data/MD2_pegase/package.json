@@ -1,0 +1,15 @@
+{
+  "bb3": {
+    "generated": 1612885042.1767142, 
+    "options": {}, 
+    "type": "bundled", 
+    "version": "v1.1"
+  }, 
+  "blippar_type": "bb3", 
+  "dependencies": {
+    "blippar": "1.3.7"
+  }, 
+  "description": "BB3 File", 
+  "name": "royal_pegasus_bind_pose", 
+  "version": "1.0.0"
+}
